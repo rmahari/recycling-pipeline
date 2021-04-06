@@ -1,0 +1,11 @@
+## ignore macOS files
+.DS_Store
+**/.DS_Store
+
+
+## ignore python notebook checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+## ignore datasets to keep repo small
+datasets/*
