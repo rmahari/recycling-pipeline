@@ -9,3 +9,12 @@
 
 ## ignore datasets to keep repo small
 datasets/*
+
+## ignore jekyll folders
+_site
+.sass-cache
+.jekyll-cache/
+.jekyll-metadata
+vendor
+*.swp
+*.swo
