@@ -22,7 +22,7 @@ title: Waste Impact
 description: >- # this means to ignore newlines until "baseurl:"
   Final Project for MAS.S67 The Great Problems taught by Kevin Esvelt
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://camronblackburn.github.io/recycling-pipeline/" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
