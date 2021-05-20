@@ -21,14 +21,20 @@
 title: Waste Impact
 description: >- # this means to ignore newlines until "baseurl:"
   Final Project for MAS.S67 The Great Problems taught by Kevin Esvelt
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://camronblackburn.github.io/recycling-pipeline/" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "https://camronblackburn.github.io/recycling-pipeline/" # the base hostname & protocol for your site, e.g. http://example.com
+
+#url: "https://camronblackburn.github.io"
+#baseurl: "waste-management"
 
 
 # Build settings
-theme: "just-the-docs"
-plugins:
+#theme: "just-the-docs"
+#plugins:
   - jekyll-feed
+
+remote_theme: pmarsceill/just-the-docs
+color_scheme: "dark"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
