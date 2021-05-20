@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Data Viz
-nav_order: 1
+title: Local Recycling Data
+nav_order: 2
 nav_exclude: false
 ---
 
