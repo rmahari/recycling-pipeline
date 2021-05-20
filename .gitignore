@@ -11,7 +11,6 @@
 datasets/*
 
 ## ignore jekyll folders
-_site
 .sass-cache
 .jekyll-cache/
 .jekyll-metadata
